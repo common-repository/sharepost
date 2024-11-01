@@ -1,0 +1,320 @@
+# French(fr_FR) Translation File for SharePost Plugin for WordPress
+# Copyright (C) 2009 NET APPLICATIONS, INC.
+# This file is distributed under the same license as the sharepost package.
+# Noah Kretz <noah@netapplications.com>, 2009.
+#
+#, fuzzy
+msgid	""
+msgstr	"Project-Id-Version: 1.0\n"
+	"Report-Msgid-Bugs-To: \n"
+	"POT-Creation-Date: 2009-09-02 13:34-0700\n"
+	"PO-Revision-Date: 2009-09-02 13:34-0700\n"
+	"Last-Translator: Noah Kretz <noah@netapplications.com>\n"
+	"Language-Team: N/A\n"
+	"MIME-Version: 1.0\n"
+	"Content-Type: text/plain; charset=UTF-8\n"
+	"Content-Transfer-Encoding: 8bit\n"
+
+#: sharepost.php:437
+msgid	"<option value=\"0\">Pick a category for your site...</option><option value=\"1\">Advertising</option><option value=\"2\">Agriculture</option><option value=\"3\">Airlines</option><option value=\"4\">Antiques and Collectibles</option><option value=\"5\">Architecture</option><option value=\"6\">Art</option><option value=\"7\">Associations</option><option value=\"8\">Athletic Organizations</option><option value=\"9\">Attorneys</option><option value=\"10\">Automotive</option><option value=\"11\">Banking</option><option value=\"12\">Bar/Tavern</option><option value=\"13\">Baseball</option><option value=\"14\">Basketball</option><option value=\"15\">Beauty/Fashion</option><option value=\"16\">Bed and Breakfast</option><option value=\"17\">Bicycling</option><option value=\"18\">Boating</option><option value=\"19\">Books</option><option value=\"20\">Brokerage</option><option value=\"21\">Business</option><option value=\"23\">Camping</option><option value=\"22\">CD Products</option><option value=\"24\">Celebrities</option><option value=\"25\">Childrens Products</option><option value=\"26\">Cities</option><option value=\"27\">Colleges and Universities</option><option value=\"28\">Commercial</option><option value=\"29\">Computers</option><option value=\"30\">Construction</option><option value=\"31\">Cooking</option><option value=\"32\">Countries</option><option value=\"33\">Crafts</option><option value=\"34\">Doctors</option><option value=\"35\">Education</option><option value=\"36\">Elderly Care</option><option value=\"37\">Emergency Services</option><option value=\"38\">Employment</option><option value=\"39\">Entertainment</option><option value=\"40\">Environmental</option><option value=\"41\">Florists</option><option value=\"42\">Food</option><option value=\"43\">Football</option><option value=\"44\">Games</option><option value=\"45\">Gardening</option><option value=\"46\">Genealogy</option><option value=\"47\">Gifts</option><option value=\"48\">Government and Politics</option><option value=\"50\">Health and Fitness</option><option value=\"49\">Health Care</option><option value=\"51\">History</option><option value=\"52\">Hobbies</option><option value=\"53\">Holiday</option><option value=\"54\">Home</option><option value=\"55\">Hotel/Lodging</option><option value=\"56\">Humanities</option><option value=\"57\">Humor</option><option value=\"58\">Hunting and Fishing</option><option value=\"59\">Information</option><option value=\"60\">Insurance</option><option value=\"61\">International Business</option><option value=\"62\">Internet Resources</option><option value=\"63\">Internet Services</option><option value=\"64\">Jewelry</option><option value=\"65\">Law</option><option value=\"66\">Libraries</option><option value=\"67\">Life style</option><option value=\"69\">Machinery</option><option value=\"70\">Magazines</option><option value=\"71\">Mail Order</option><option value=\"72\">Marketing</option><option value=\"73\">Media</option><option value=\"74\">Medical</option><option value=\"75\">Military</option><option value=\"76\">Movies</option><option value=\"68\">MP3</option><option value=\"77\">Museums</option><option value=\"78\">Music</option><option value=\"79\">Nature</option><option value=\"80\">News Media</option><option value=\"81\">Newspapers</option><option value=\"82\">Organizations</option><option value=\"83\">Personal Homepage</option><option value=\"84\">Pets</option><option value=\"85\">Publications</option><option value=\"86\">Publishers</option><option value=\"87\">Racing</option><option value=\"88\">Radio and Television</option><option value=\"89\">Real Estate</option><option value=\"90\">Recreation</option><option value=\"91\">Relationships</option><option value=\"92\">Religion</option><option value=\"93\">Research</option><option value=\"94\">Restaurants</option><option value=\"95\">Science</option><option value=\"96\">Services</option><option value=\"97\">Shopping</option><option value=\"98\">Software</option><option value=\"99\">Sports</option><option value=\"100\">Technology</option><option value=\"101\">Telecommunications</option><option value=\"102\"></option>"
+msgstr	"<option value=\"0\">Choisissez une cat&eacute;gorie pour votre site...</option><option value=\"71\">Actualit&eacute;s</option><option value=\"1\">Advertising</option><option value=\"3\">AgricultureA&eacute;ronotique</option><option value=\"35\">Alimentation</option><option value=\"76\">Animaux</option><option value=\"4\">Antiquit&eacute;s et Collections</option><option value=\"5\">Architecture</option><option value=\"6\">ArtAssociations</option><option value=\"26\">Artisanat</option><option value=\"51\">Assurances</option><option value=\"9\">Automobile</option><option value=\"8\">Avocats</option><option value=\"10\">Banque</option><option value=\"11\">Bar</option><option value=\"12\">Baseball</option><option value=\"13\">BaseketBall</option><option value=\"14\">Beaut&eacute;/Mode</option><option value=\"15\">Bedand Breakfast</option><option value=\"57\">Biblioth&egrave;ques</option><option value=\"55\">Bijouterie</option><option value=\"18\">Business</option><option value=\"40\">Cadeaux</option><option value=\"19\">Camping</option><option value=\"20\">CDC&eacute;l&eacute;brit&eacute;s</option><option value=\"49\">ChasseetP&ecirc;che</option><option value=\"61\">Commandespar</option><option value=\"52\">CommerceInternational</option><option value=\"24\">Construction</option><option value=\"79\">Courses</option><option value=\"25\">Cuisine</option><option value=\"81\">D&eacute;tente</option><option value=\"32\">Divertissement</option><option value=\"27\">Docteurs</option><option value=\"28\">Education</option><option value=\"31\">Emploi</option><option value=\"33\">Environnement</option><option value=\"66\">Films</option><option value=\"34\">Floristes</option><option value=\"36\">Football</option><option value=\"39\">G&eacute;n&eacute;alogie</option><option value=\"41\">Gouvernements et Politique</option><option value=\"43\">Histoire</option><option value=\"44\">Hobbies</option><option value=\"47\">Hotel</option><option value=\"48\">Humour</option><option value=\"78\">Immobilier</option><option value=\"50\">Information</option><option value=\"38\">Jardinage</option><option value=\"37\">Jeux</option><option value=\"73\">Journaux</option><option value=\"58\">Lifestyle</option><option value=\"17\">Livres</option><option value=\"89\">Logiciels</option><option value=\"56\">Loi</option><option value=\"64\">M&eacute;decine</option><option value=\"59\">Machineries</option><option value=\"60\">Magazines</option><option value=\"46\">Maison</option><option value=\"62\">Marketing</option><option value=\"63\">Media</option><option value=\"72\">Media</option><option value=\"65\">Militaire</option><option value=\"67\">MP3</option><option value=\"68\">Mus&eacute;es</option><option value=\"69\">Musique</option><option value=\"70\">Nature</option><option value=\"7\">OrganisationsSportives</option><option value=\"75\">Pages Personnelles </option><option value=\"74\">Personnel</option><option value=\"21\">ProduitspourEnfants</option><option value=\"77\">Publications</option><option value=\"2\">Publicit&eacute;</option><option value=\"80\">Radio et T&eacute;l&eacute;vision</option><option value=\"84\">Recherche</option><option value=\"82\">Relations</option><option value=\"83\">Religion</option><option value=\"53\">RessourcesInternet</option><option value=\"85\">Restaurants</option><option value=\"42\">Sant&eacute;/Bien-Etre</option><option value=\"86\">Science</option><option value=\"87\">Services</option><option value=\"30\">Services d'Urgence</option><option value=\"54\">ServicesInternet</option><option value=\"88\">Shopping</option><option value=\"29\">Soinaux Personnes Ag&eacute;es</option><option value=\"90\">Sports</option><option value=\"16\">SportsNautiques</option><option value=\"101\">Technologie/T&eacute;l&eacute;communications</option><option value=\"23\">Universit&eacute;sOrdinateurs</option><option value=\"15\">V&eacute;lo</option><option value=\"45\">vacances</option><option value=\"22\">Villes</option>"
+
+#: sharepost.php:441
+msgid	"<option value=\"0\">What language is your site in...</option><option value=\"1\">English</option><option value=\"2\">Czech</option><option value=\"3\">Danish</option><option value=\"4\">Dutch</option><option value=\"5\">Chinese</option><option value=\"6\">Estonian</option><option value=\"7\">Finnish</option><option value=\"8\">French</option><option value=\"9\">German</option><option value=\"10\">Greek</option><option value=\"11\">Hebrew</option><option value=\"12\">Hungarian</option><option value=\"13\">Icelandic</option><option value=\"14\">Italian</option><option value=\"15\">Japanese</option><option value=\"16\">Korean</option><option value=\"17\">Latvian</option><option value=\"18\">Lithuanian</option><option value=\"19\">Norwegian</option><option value=\"20\">Polish</option><option value=\"21\">Romanian</option><option value=\"22\">Portuguese</option><option value=\"23\">Russian</option><option value=\"24\">Spanish</option><option value=\"25\">Swedish</option><option value=\"26\">Afrikaans</option><option value=\"27\">Albanian</option><option value=\"28\">Alsatian</option><option value=\"29\">Amharic</option><option value=\"30\">Arabic</option><option value=\"31\">Armenian</option><option value=\"32\">Assamese</option><option value=\"33\">Asturian</option><option value=\"34\">Azeri</option><option value=\"35\">Bashkir</option><option value=\"36\">Basque</option><option value=\"37\">Belarusian</option><option value=\"38\">Bengali</option><option value=\"39\">Bosnian</option><option value=\"40\">Breton</option><option value=\"41\">Bulgarian</option><option value=\"42\">Catalan</option><option value=\"43\">Corsican</option><option value=\"44\">Croatian</option><option value=\"45\">Dari</option><option value=\"46\">Divehi</option><option value=\"47\">Faeroese</option><option value=\"48\">Filipino</option><option value=\"49\">Frisian</option><option value=\"50\">Friulian</option><option value=\"51\">Galician</option><option value=\"52\">Georgian</option><option value=\"53\">Greenlandic</option><option value=\"54\">Gujarati</option><option value=\"55\">Hausa</option><option value=\"56\">Hindi</option><option value=\"57\">Indonesian</option><option value=\"58\">Inuktitut</option><option value=\"59\">Irish</option><option value=\"60\">isiXhosa Xhosa</option><option value=\"61\">isiZulu Zulu</option><option value=\"62\">Kannada</option><option value=\"63\">Kazakh</option><option value=\"64\">Khmer</option><option value=\"65\">Kiche</option><option value=\"66\">Kinyarwanda</option><option value=\"67\">Konkani</option><option value=\"68\">Kyrgyz</option><option value=\"69\">Lao</option><option value=\"70\">Lower Sorbian</option><option value=\"71\">Luxembourgish</option><option value=\"72\">Macedonian</option><option value=\"73\">Malay</option><option value=\"74\">Malayalam</option><option value=\"75\">Maltese</option><option value=\"76\">Maori</option><option value=\"77\">Mapudungun</option><option value=\"78\">Marathi</option><option value=\"79\">Mohawk</option><option value=\"80\">Mongolian</option><option value=\"81\">Nepali</option><option value=\"82\">Norwegian Bokm�l</option><option value=\"83\">Norwegian Nynorsk</option><option value=\"84\">Occitan</option><option value=\"85\">Oriya</option><option value=\"86\">Pashto</option><option value=\"87\">Persian</option><option value=\"88\">Punjabi</option><option value=\"89\">Quechua</option><option value=\"90\">Romansh</option><option value=\"91\">Sami</option><option value=\"92\">Sanskrit</option><option value=\"93\">Serbian</option><option value=\"94\">Sesotho sa Leboa</option><option value=\"95\">Setswana Tswana</option><option value=\"96\">Sinhala</option><option value=\"97\">Slovak</option><option value=\"98\">Slovenian</option><option value=\"99\">Swahili</option><option value=\"100\">Syriac</option><option value=\"101\">Tajik</option><option value=\"102\">Tamazight</option><option value=\"103\">Tamil</option><option value=\"104\">Tatar</option><option value=\"105\">Telugu</option><option value=\"106\">Thai</option><option value=\"107\">Tibetan</option><option value=\"108\">Turkish</option><option value=\"109\">Turkmen</option>"
+msgstr	"<option value=\"0\">Dans quelle langue est votre site... </option><option value=\"1\">Anglais</option><option value=\"2\">Tchèque</option><option value=\"3\">Danois</option><option value=\"4\">Hollandais</option><option value=\"5\">Chinois</option><option value=\"6\">Estonien</option><option value=\"7\">Finlandais</option><option value=\"8\">Français</option><option value=\"9\">Allemand</option><option value=\"10\">Grec</option><option value=\"11\">Hébreu</option><option value=\"12\">Hongrois</option><option value=\"13\">Islandais</option><option value=\"14\">Italien</option><option value=\"15\">Japonais</option><option value=\"16\">Coréen</option><option value=\"17\">Letton</option><option value=\"18\">Lithuanien</option><option value=\"19\">Norvégien</option><option value=\"20\">Polonais</option><option value=\"21\">Roumain</option><option value=\"22\">Portugais</option><option value=\"23\">Russe</option><option value=\"24\">Espagnol</option><option value=\"25\">Suédois</option><option value=\"26\">Afrikaans</option><option value=\"27\">Albanais</option><option value=\"28\">Alsacien</option><option value=\"29\">Amharique</option><option value=\"30\">Arabe</option><option value=\"31\">Arménien</option><option value=\"32\">Assamese</option><option value=\"33\">Asturien</option><option value=\"34\">Azérii</option><option value=\"35\">Bachkir</option><option value=\"36\">Basque</option><option value=\"37\">Biélorusse</option><option value=\"38\">Bengali</option><option value=\"39\">Bosnien</option><option value=\"40\">Breton</option><option value=\"41\">Bulgare</option><option value=\"42\">Catalan</option><option value=\"43\">Corse</option><option value=\"44\">Croate</option><option value=\"45\">Dari</option><option value=\"46\">Divehi</option><option value=\"47\">Féroïen</option><option value=\"48\">Philippin</option><option value=\"49\">Frisian</option><option value=\"50\">Friulian</option><option value=\"51\">Galicien</option><option value=\"52\">Géorgien</option><option value=\"53\">Greenlandic</option><option value=\"54\">Gujarati</option><option value=\"55\">Hausa</option><option value=\"56\">Hindi</option><option value=\"57\">Indonésien</option><option value=\"58\">Inuktitut</option><option value=\"59\">Irlandais</option><option value=\"60\">Xhosa d'isiXhosa</option><option value=\"61\">zoulou d'isiZulu</option><option value=\"62\">Kannada</option><option value=\"63\">Kazakh</option><option value=\"64\">Khmer</option><option value=\"65\">Kiche</option><option value=\"66\">Kinyarwanda</option><option value=\"67\">Konkani</option><option value=\"68\">Kirghiz</option><option value=\"69\">Le Laotien</option><option value=\"70\">Abaissez Sorbian</option><option value=\"71\">Luxembourgeois</option><option value=\"72\">Macédonien</option><option value=\"73\">Malais</option><option value=\"74\">Malayalam</option><option value=\"75\">Maltais</option><option value=\"76\">Maori</option><option value=\"77\">Mapudungun</option><option value=\"78\">Marathi</option><option value=\"79\">Mohawk</option><option value=\"80\">Mongolian</option><option value=\"81\">Nepali</option><option value=\"82\">Bokmål norvégien</option><option value=\"83\">Nynorsk norvégien</option><option value=\"84\">Occitan</option><option value=\"85\">Oriya</option><option value=\"86\">Pashto</option><option value=\"87\">Persan</option><option value=\"88\">Punjabi</option><option value=\"89\">Quechua</option><option value=\"90\">Romansh</option><option value=\"91\">Sami</option><option value=\"92\">Sanskrit</option><option value=\"93\">Serbian</option><option value=\"94\">Sesotho SA Leboa</option><option value=\"95\">Tswana de Setswana</option><option value=\"96\">Sinhala</option><option value=\"97\">Slovaque</option><option value=\"98\">Slovène</option><option value=\"99\">Sovahéli</option><option value=\"100\">Syriac</option><option value=\"101\">Tadjik</option><option value=\"102\">Tamazight</option><option value=\"103\">Tamoul</option><option value=\"104\">Tatar</option><option value=\"105\">Telugu</option><option value=\"106\">Thaï</option><option value=\"107\">Tibétain</option><option value=\"108\">Turc</option><option value=\"109\">Turkmène</option>"
+
+#: sharepost.php:445
+msgid	"<option value=\"0\">What time zone do you live in...</option><option value=\"1\">GMT -11:00 - Midway Islands Time (MIT)</option><option value=\"2\">GMT -10:00 - Hawaii Standard Time (HST)</option><option value=\"3\">GMT -9:00 - Alaska Standard Time (AST)</option><option value=\"4\">GMT -8:00 - Pacific Standard Time (PST)</option><option value=\"32\">GMT -8:00 - Mexico/Pacific Standard Time (PXT)</option><option value=\"5\">GMT -7:00 - Phoenix Standard Time (PNT)</option><option value=\"6\">GMT -7:00 - Mountain Standard Time (MST)</option><option value=\"33\">GMT -7:00 - Mexico/Mountain Standard Time (MXT)</option><option value=\"7\">GMT -6:00 - Central Standard Time (CST)</option><option value=\"34\">GMT -6:00 - Mexico/Central Standard Time (CXT)</option><option value=\"8\">GMT -5:00 - Eastern Standard Time (EST)</option><option value=\"9\">GMT -5:00 - Indiana Eastern Standard Time (IET)</option><option value=\"10\">GMT -4:00 - Puerto Rico/US Virgin Islands Time (PRT)</option><option value=\"11\">GMT -3:30 - Canada Newfoundland Time (CNT)</option><option value=\"12\">GMT -3:00 - Argentina Standard Time (AGT)</option><option value=\"13\">GMT -3:00 - Brazil Eastern Time (BET)</option><option value=\"14\">GMT -1:00 - Central African Time (CAT)</option><option value=\"15\">GMT 0:00 - Greenwich Mean Time (GMT)</option><option value=\"16\">GMT +1:00 - European Central Time (ECT)</option><option value=\"17\">GMT +1:00 - Eastern European Time (EET)</option><option value=\"18\">GMT +2:00 - (Arabic) Egypt Standard Time (ART)</option><option value=\"19\">GMT +3:00 - Eastern African Time (EAT)</option><option value=\"20\">GMT +3:30 - Middle East Time (MET)</option><option value=\"21\">GMT +4:00 - Near East Time (NET)</option><option value=\"22\">GMT +5:00 - Pakistan Lahore Time (PLT)</option><option value=\"23\">GMT +5:30 - India Standard Time (IST)</option><option value=\"24\">GMT +6:00 - Bangladesh Standard Time (BST)</option><option value=\"25\">GMT +7:00 - Vietnam Standard Time (VST)</option><option value=\"26\">GMT +8:00 - China Taiwan Time (CTT)</option><option value=\"27\">GMT +9:00 - Japan Standard Time (JST)</option><option value=\"28\">GMT +9:30 - Australia Central Time (ACT)</option><option value=\"29\">GMT +10:00 - Australia Eastern Time (AET)</option><option value=\"30\">GMT +11:00 - Solomon Standard Time (SST)</option><option value=\"31\">GMT +12:00 - New Zealand Standard Time (NST)</option>"
+msgstr	"<option value=\"0\">Dans quel fuseau horaire vivez-vous...</option><option value=\"1\">GMT -11:00 &ndash; Atoll de Midway (MIT)</option><option value=\"2\">GMT -10:00 &ndash; Heure Standard Hawa&iuml; (HST)</option><option value=\"4\">GMT-9:00 &ndash; Heure Standard Alaska (AST)</option><option value=\"5\">GMT -8:00 &ndash; Heure Standard Pacifique (PST)</option><option value=\"6\">GMT -8:00 &ndash; Heure Standard Mexique /Pacifique (PXT)</option><option value=\"7\">GMT -7:00 &ndash; Heure Standard Phoenix (PNT)</option><option value=\"8\">GMT-7:00 - Heure Standard Montagnes (MST)</option><option value=\"9\">GMT -7:00 - Heure Standard Mexique / Montagnes (MXT)</option><option value=\"10\">GMT -6:00 - Heure Standard Centrale(CST)</option><option value=\"11\">GMT -6:00 - Heure Standard  Mexique / Centrale (CXT)</option><option value=\"12\">GMT -5:00 - Heure Standard C&ocirc;te Est (EST)</option><option value=\"13\">GMT -5:00 - Heure Standard C&ocirc;te Est/Indien (IET)</option><option value=\"14\">GMT -4:00 - Porto Rico/Iles Vierges US (PRT)</option><option value=\"15\">GMT -3:30 - Canada (CNT)</option><option value=\"16\">GMT -3:00 - Argentine (AGT)</option><option value=\"17\">GMT -3:00 &ndash; Br&eacute;sil Oriental (BET)</option><option value=\"18\">GMT -1:00 &ndash; Afrique Centrale(CAT)</option><option value=\"19\">GMT 0:00 &ndash; M&eacute;ridien de Greenwich (GMT)</option><option value=\"20\">GMT +1:00 &ndash; Europe Centrale (ECT)</option><option value=\"21\">GMT +1:00 &ndash; Europe orientale (EET)</option><option value=\"22\">GMT +2:00 - Heure Standard Egypte (ART)</option><option value=\"23\">GMT +3:00 &ndash; Afrique Orientale (EAT)</option><option value=\"24\">GMT +3:30 &ndash; Moyen Orient (MET)</option><option value=\"25\">GMT +4:00 &ndash; Proche Orient (NET)</option><option value=\"26\">GMT +5:00 -Pakistan (PLT)</option><option value=\"27\">GMT +5:30 - Inde (IST)</option><option value=\"28\">GMT +6:00 - Bangladesh(BST)</option><option value=\"29\">GMT +7:00 - Vietnam (VST)</option><option value=\"30\">GMT +8:00 &ndash; Chine - Taiwan (CTT)</option><option value=\"31\">GMT +9:00 - Japon (JST)</option><option value=\"32\">GMT +9:30 - Australie (ACT)</option><option value=\"33\">GMT +10:00 -Australia Orientale (AET)</option><option value=\"34\">GMT +11:00 &ndash; Iles Solomon (SST)</option><option value=\"35\">GMT +12:00 &ndash; Nouvelle Zelande (NST)</option>"
+
+#: sharepost.php:373
+msgid	"A SharePost account is required to use this plugin."
+msgstr	"Un compte SharePost est nécessaire pour utiliser ce plugin."
+
+#: sharepost.php:371
+msgid	"Account Information"
+msgstr	"Informations de compte"
+
+#: sharepost.php:620
+msgid	"Advanced Settings"
+msgstr	"Param&egrave;tres avanc&eacute;s"
+
+#: sharepost.php:615
+msgid	"Are we missing a site?"
+msgstr	"Avons-nous manqu&eacute; un site ?"
+
+#: sharepost.php:637
+msgid	"Baby Blue"
+msgstr	"Bleu clair"
+
+#: sharepost.php:510
+msgid	"Basic Settings"
+msgstr	"Param&egrave;tres de base"
+
+#: sharepost.php:636
+msgid	"Black (default)"
+msgstr	"Noir "
+
+#: sharepost.php:692
+msgid	"Body Background"
+msgstr	"Fond principal"
+
+#: sharepost.php:680
+msgid	"Body Text"
+msgstr	"Corps du texte"
+
+#: sharepost.php:753
+msgid	"Bookmark"
+msgstr	"Ajouter aux favoris"
+
+#: sharepost.php:531
+msgid	"Button Style"
+msgstr	"Style de boutons"
+
+#: sharepost.php:408 sharepost.php:464
+msgid	"Cancel"
+msgstr	"Annuler"
+
+#: sharepost.php:599
+msgid	"Choose Services"
+msgstr	"Choix des services"
+
+#: sharepost.php:627
+msgid	"Colors"
+msgstr	"Couleurs "
+
+#: sharepost.php:647
+msgid	"Custom"
+msgstr	"Personnalis&eacute;e "
+
+#: sharepost.php:605
+msgid	"Custom (Services will appear in the order selected)"
+msgstr	"Personnalis&eacute; (sites qui appara&icirc;tront dans l'ordre s&eacute;lectionn&eacute;)"
+
+#: sharepost.php:607
+msgid	"De-select All"
+msgstr	"Tout d&eacute;s&eacute;lectionner"
+
+#: sharepost.php:603
+msgid	"Default (Top sites for selected language)"
+msgstr	"D&eacute;faut (Sites principaux pour une langue s&eacute;lectionn&eacute;e)"
+
+#: sharepost.php:590
+msgid	"Feed URL"
+msgstr	"URL du flux"
+
+#: sharepost.php:638
+msgid	"Gunmetal Gray"
+msgstr	"Gris bronze"
+
+#: sharepost.php:623
+msgid	"Header Text"
+msgstr	"Texte d'en-t&ecirc;te "
+
+#: sharepost.php:669
+msgid	"Header/Footer Background"
+msgstr	"Fond en-t&ecirc;te / pied de page "
+
+#: sharepost.php:658
+msgid	"Header/Footer Text"
+msgstr	"Texte en-t&ecirc;te / pied de page "
+
+#: sharepost.php:520
+msgid	"Language"
+msgstr	"Langue"
+
+#: sharepost.php:720
+msgid	"Left Offset"
+msgstr	"Balance gauche "
+
+#: sharepost.php:639
+msgid	"Lemon Lime"
+msgstr	"Jaune citron"
+
+#: sharepost.php:615
+msgid	"Let us know."
+msgstr	"Tenez-nous inform&eacute;s "
+
+#: sharepost.php:703
+msgid	"Link Highlight"
+msgstr	"Surbrillance lien "
+
+#: sharepost.php:640
+msgid	"MS DOS"
+msgstr	"MS DOS"
+
+#: sharepost.php:483 sharepost.php:490 sharepost.php:497
+msgid	"No"
+msgstr	"Non"
+
+#: sharepost.php:400
+msgid	"Password:"
+msgstr	"Mot de passe :"
+
+#: sharepost.php:295
+msgid	"Your passwords do not match."
+msgstr	"Vos mots de passe ne correspondent pas"
+
+#: sharepost.php:424
+msgid	"Pick a password"
+msgstr	"Veuillez choisir un mot de passe"
+
+#: sharepost.php:420
+msgid	"Pick an account ID"
+msgstr	"Veuillez choisir un identifiant"
+
+#: sharepost.php:369
+msgid	"Plugin Settings"
+msgstr	"Paramètres plugin"
+
+#: sharepost.php:715
+msgid	"Positioning"
+msgstr	"Positionnement"
+
+#: sharepost.php:641
+msgid	"Pretty in Pink"
+msgstr	"Bien en rose"
+
+#: sharepost.php:749
+msgid	"Preview"
+msgstr	"Pr&eacute;visualisation "
+
+#: sharepost.php:517
+msgid	"RSS Feed Button"
+msgstr	"Bouton de flux RSS"
+
+#: sharepost.php:642
+msgid	"Raspberry"
+msgstr	"Framboise "
+
+#: sharepost.php:643
+msgid	"Rebel Red"
+msgstr	"Rouge rebelle"
+
+#: sharepost.php:744
+msgid	"Reset Form"
+msgstr	"R&eacute;initialiser formulaire"
+
+#: sharepost.php:428
+msgid	"Retype Password"
+msgstr	"Saisissez &agrave; nouveau le mot de passe"
+
+#: sharepost.php:743
+msgid	"Save Changes"
+msgstr	"Enregistrer les modifications"
+
+#: sharepost.php:601
+msgid	"Services to Display"
+msgstr	"Services &agrave; afficher"
+
+#: sharepost.php:644
+msgid	"SharePost Blue"
+msgstr	"Bleu SharePost"
+
+#: sharepost.php:515
+msgid	"Sharing Button"
+msgstr	"Bouton de partage"
+
+#: sharepost.php:480
+msgid	"Show on archives:"
+msgstr	"Afficher sur les archives:"
+
+#: sharepost.php:487
+msgid	"Show on categories:"
+msgstr	"Afficher sur des catégories:"
+
+#: sharepost.php:494
+msgid	"Show on pages:"
+msgstr	"S'affichent sur les pages:"
+
+#: sharepost.php:463
+msgid	"Sign Up"
+msgstr	"S'inscrire"
+
+#: sharepost.php:390 sharepost.php:414
+msgid	"Sign up for a new Sharepost account"
+msgstr	"S'inscrire pour un compte de nouveaux Sharepost"
+
+#: sharepost.php:645
+msgid	"Silver"
+msgstr	"Argent"
+
+#: sharepost.php:436
+msgid	"Site Category"
+msgstr	"Cat&eacute;gorie de site"
+
+#: sharepost.php:440
+msgid	"Site Language"
+msgstr	"Langue du site"
+
+#: sharepost.php:432
+msgid	"Site URL"
+msgstr	"URL de votre site"
+
+#: sharepost.php:632
+msgid	"Theme"
+msgstr	"Th&egrave;me "
+
+#: sharepost.php:726
+msgid	"Top Offset"
+msgstr	"Balance haut "
+
+#: sharepost.php:388 sharepost.php:470
+msgid	"Use an existing SharePost account"
+msgstr	"Utiliser un compte existant SharePost"
+
+#: sharepost.php:396
+msgid	"Account:"
+msgstr	"Compte :"
+
+#: sharepost.php:407
+msgid	"Verify Account"
+msgstr	"Valider le compte"
+
+#: sharepost.php:646
+msgid	"Watermelon"
+msgstr	"Past&egrave;que "
+
+#: sharepost.php:512
+msgid	"Widget Type"
+msgstr	"Type de Gadget"
+
+#: sharepost.php:476
+msgid	"WordPress Options"
+msgstr	"WordPress Options"
+
+#: sharepost.php:482 sharepost.php:489 sharepost.php:496
+msgid	"Yes"
+msgstr	"Oui"
+
+#: sharepost.php:384
+msgid	"You have not provided account information yet."
+msgstr	"Vous n'avez pas fourni les informations de compte pour le moment."
+
+#: sharepost.php:221 sharepost.php:318 sharepost.php:379
+msgid	"You have verified the following account:"
+msgstr	"Vous avez vérifié le compte suivant:"
+
+#: sharepost.php:456
+msgid	"Your e-mail address"
+msgstr	"Votre adresse email"
+
+#: sharepost.php:448
+msgid	"Your first name"
+msgstr	"Votre pr&eacute;nom"
+
+#: sharepost.php:452
+msgid	"Your last name"
+msgstr	"Votre nom"
+
+#: sharepost.php:444
+msgid	"Your time zone"
+msgstr	"Votre fuseau horaire"
+
+#: sharepost.php:248 sharepost.php:289
+msgid	"en-US"
+msgstr	"fr-FR"
+
+#: sharepost.php:340
+msgid	"Request timed out"
+msgstr	"Request timed out"

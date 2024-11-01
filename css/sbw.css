@@ -1,0 +1,278 @@
+#sharepost_gui
+{
+    FONT-WEIGHT: 500;
+    FONT-SIZE: 14pt;
+    COLOR: #555555;								  
+    FONT-FAMILY: Arial, Helvetica, Arial;
+    width: 750px;
+}
+
+/*styles for widget configuration page*/
+#sb_config_wrapper{
+width: 400px;
+font-family: 'Arial';
+float: left;
+text-align: left;
+margin: 30px 0 0 0;
+}
+
+#sb_accordion_wrapper{
+text-align: left;
+border: 1px solid #E5E5E5;
+padding: 0;
+}
+
+.sb_config_header{
+color: #000000;
+background-color: #F3F3F3;
+font-size: 14px;
+font-weight: bold;
+text-align: left;
+padding: 8px 10px 8px 10px;
+margin: 1px;
+}
+
+.sb_config_header_active{
+color: #ffffff;
+}
+
+.sb_config_content{
+font-size: 12px;
+text-align: left;
+margin: 20px;
+}
+
+.sb_config_label
+{
+color: #000000;
+margin-top: 10px;
+font-weight: bold;
+font-size: 13px;
+text-align: left;
+}
+
+.sb_config_choiceblock{
+padding-left: 10px;
+margin-top: 5px;
+font-size: 12px;
+text-align: left;
+}
+
+#sb_services{
+margin-top: 5px;
+height:300px;
+overflow:auto;
+}
+
+.sb_check_div{
+text-align: left;
+float: left;
+height:20px;
+width: 150px;
+margin: 1px 10px 1px 1px;
+padding: 0px 0px 0px 0px;
+}
+
+#sb_preview_wrapper{
+width: 304px;
+font-family: 'Arial';
+text-align: left;
+float: left;
+margin: 30px 0px 0px 30px;
+padding: 0;
+border: 1px solid #E5E5E5;
+}
+
+#sb_popup{
+position:relative;
+text-align: left;
+width: 260px;
+padding: 1px 1px 1px 1px;
+border: solid 1px #c2c2c2;
+}
+
+#sb_header{
+height: 21px;
+background-color: #000000;
+color: #FFFFFF;
+font-size: 13px;
+font-weight: bold;
+line-height: 19px;
+text-align: left;
+padding: 0px 0px 0px 6px;
+margin: 0px 0px 0px 0px;
+}
+
+#sb_body{
+color: #000000;
+background-color: transparent;
+font-size: 12px;
+text-align: left;
+margin: 0px 0px 0px 0px;
+padding: 0;
+}
+
+.sb_footer
+{
+height: 16px;
+color: #FFFFFF;
+background-color: #000000;
+font-size: 12px;
+line-height: 14px;
+display: block;
+margin: 0;
+padding: 0px 6px 0px 6px;
+text-align: right;
+text-decoration: none !important;
+}
+
+.sb_link{
+color: #000000;
+display:block;
+padding:0px 0px 0px 30px;
+margin:0px 0px 0px 0px;
+text-align:left;
+text-decoration:none !important;
+height:20px;
+line-height:18px;
+font-size:10px;
+}
+
+.sb_item{
+display:block;
+float:left;
+text-align:left;
+margin:1px 0px 1px 0px;
+padding:0px 0px 0px 0px;
+width:128px;
+height:20px;
+}
+
+.sb_clear{
+height:2px;
+font-size:0px;
+text-align: left;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+clear: both;
+}
+
+.sb_separator{
+background-color: transparent;
+height: 2px;
+font-size:0px;
+text-align: left;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+border-top:solid 1px #E7E7E7;
+clear: both;
+}
+
+#sb_code_window{
+width:500px;
+height:300px;
+text-align: left;
+}
+
+.sb_tab_bar{
+    border-bottom: solid 1px #E5E5E5;
+    margin:0;
+    padding:0;
+    height:21px;
+}
+
+#basic_tab, #services_tab, #advanced_tab, #plugin_tab
+{
+	font-family: 'Arial';
+    font-size:12px;
+    height:21px;
+    line-height:21px;
+    text-align:center;
+    text-decoration:none;
+    color:#686969;
+    background-image:url('../images/sp_tab_fill.gif');
+	background-repeat:repeat-x;
+    display:block;
+    float:left;
+    cursor:pointer;
+}
+
+A.graylink:link
+{
+	text-decoration: none;
+	color: #7f7f7f;
+}
+
+A.graylink:active
+{
+	text-decoration: none;
+	color: #0000ff;
+}
+
+A.graylink:hover
+{
+	text-decoration: none;
+	color: #0000ff;
+}
+
+A.graylink:visited
+{
+	text-decoration: none;
+	color: #7f7f7f;
+}
+
+.home-panel-headline
+{
+	color: #fcfcfc;
+	font-family: Arial,Helvetica;
+	font-size: 28pt;
+	font-weight: normal;
+}
+
+.home-panel-sub
+{
+	color: #fcfcfc;
+	font-family: Arial,Helvetica;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.free-button
+{
+	font-family: Arial,Helvetica;
+	font-size: 18pt;
+	line-height: 18pt;
+	font-weight: bold;
+	color: #fcfcfc;
+}
+
+.button-learn-more
+{
+	padding-top: 5px;
+	font-family: Arial,Helvetica;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.home-list-item
+{
+	padding-left: 1px;
+	padding-bottom: 5px;
+	font-size: 8pt;
+}
+
+.sp-page-title
+{
+	color: #fcfcfc;
+	font-family: Arial,Helvetica;
+	font-size: 20pt;
+	font-weight: normal;
+}
+
+.sp-page-title-detail
+{
+	color: #fcfcfc;
+	font-family: Arial,Helvetica;
+	font-weight: normal;
+	font-size: 10pt;
+}
